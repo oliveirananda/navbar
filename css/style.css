@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: hsl(50, 33%, 25%);
+    background-color: rgba(255, 255, 128, .5);
   }
   
    .navbar li {
@@ -12,7 +12,7 @@
   
    .navbar li a {
     display: block;
-    color: white;
+    color: rgb(214, 122, 127);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
